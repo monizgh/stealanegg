@@ -1,0 +1,8 @@
+* text=auto
+*.rbxlx -text
+*.png -text
+*.zip -text
+*.exe -text
+*.luau text eol=lf
+*.js text eol=lf
+*.ps1 text eol=crlf

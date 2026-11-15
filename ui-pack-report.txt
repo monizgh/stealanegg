@@ -1,0 +1,224 @@
+CLASS COUNTS
+  LocalScript: 60
+  ImageButton: 59
+  Decal: 55
+  UIShadow: 21
+  ImageLabel: 8
+  UIGradient: 5
+  Frame: 2
+  ScreenGui: 1
+  Folder: 1
+
+TREE
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://73663005164552 ; ZIndex=1]
+      ImageButton "Rebirth"  [ImageContent=rbxassetid://115325120904186 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://135804309692238 ; ZIndex=1]
+      ImageButton "Shop"  [ImageContent=rbxassetid://79189567200992 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://96160646700358 ; ZIndex=1]
+      ImageButton "Mouse"  [ImageContent=rbxassetid://120918127409954 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://134734003678221 ; ZIndex=1]
+      ImageButton "Robux"  [ImageContent=rbxassetid://131198923284739 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://82816180109392 ; ZIndex=1]
+      ImageButton "Forward"  [ImageContent=rbxassetid://71765598424688 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://94575482748360 ; ZIndex=1]
+      ImageButton "Back"  [ImageContent=rbxassetid://80495145019472 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://92628551554815 ; ZIndex=1]
+      ImageButton "Gem&apos;s"  [ImageContent=rbxassetid://78249669263695 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://73552063953074 ; ZIndex=1]
+      ImageButton "Code&apos;s"  [ImageContent=rbxassetid://74993576301387 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://85924614506626 ; ZIndex=1]
+      ImageButton "Delete"  [ImageContent=rbxassetid://104731637166575 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://74034821318674 ; ZIndex=1]
+      ImageButton "Gift"  [ImageContent=rbxassetid://82293274582736 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://114371893357657 ; ZIndex=1]
+      ImageButton "Setting&apos;s"  [ImageContent=rbxassetid://79312800758069 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://119884033550057 ; ZIndex=1]
+      ImageButton "Pet&apos;s"  [ImageContent=rbxassetid://110467625627559 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://103442007980360 ; ZIndex=1]
+      ImageButton "Money"  [ImageContent=rbxassetid://134033317054407 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://106427777463441 ; ZIndex=1]
+      ImageButton "Correct"  [ImageContent=rbxassetid://116455359000189 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://85387955042762 ; ZIndex=1]
+      ImageButton "Super Gem&apos;s"  [ImageContent=rbxassetid://78098471983751 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://117887290906009 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "Plus"  [ImageContent=rbxassetid://70751880810147 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://126185390548906 ; ZIndex=1]
+      ImageButton "Minus"  [ImageContent=rbxassetid://118462228948753 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://133449971610824 ; ZIndex=1]
+      ImageButton "WheelSpin"  [ImageContent=rbxassetid://108607068483395 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://74315143119360 ; ZIndex=1]
+      ImageButton "Trade"  [ImageContent=rbxassetid://135952953888549 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://98051473530755 ; ZIndex=1]
+      ImageButton "Luck"  [ImageContent=rbxassetid://134443950151679 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://120624533933389 ; ZIndex=1]
+      ImageButton "Back"  [ImageContent=rbxassetid://133321613198850 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://125736259123294 ; ZIndex=1]
+      ImageButton "Delete"  [ImageContent=rbxassetid://126199909421060 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://90381660940146 ; ZIndex=1]
+      ImageButton "Correct"  [ImageContent=rbxassetid://137652172839461 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://91896537853337 ; ZIndex=1]
+      ImageButton "Forward"  [ImageContent=rbxassetid://73460904721476 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://123615211721249 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "Inventory"  [ImageContent=rbxassetid://119963621120331 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://123615211721249 ; ZIndex=1]
+      ImageButton "Bag Pack"  [ImageContent=rbxassetid://130843686712036 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://111618439943749 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "Robux"  [ImageContent=rbxassetid://75730579249181 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://121657620859761 ; ZIndex=1]
+      ImageButton "WheelSpin"  [ImageContent=rbxassetid://126091452202940 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://82245534076245 ; ZIndex=1]
+      ImageButton "Gift"  [ImageContent=rbxassetid://91995081088792 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://134746970554349 ; ZIndex=1]
+      ImageButton "Trade"  [ImageContent=rbxassetid://86221260122283 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://101093482235249 ; ZIndex=1]
+      ImageButton "Money"  [ImageContent=rbxassetid://101558165672828 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://111082385422912 ; ZIndex=1]
+      ImageButton "Luck"  [ImageContent=rbxassetid://71185215827539 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://110011178140123 ; ZIndex=1]
+      ImageButton "Rebirth"  [ImageContent=rbxassetid://122271314890881 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://120415133302584 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "Shop"  [ImageContent=rbxassetid://95705000553415 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://81274757853826 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "Gem&apos;s"  [ImageContent=rbxassetid://129479735876075 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://101434410779846 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "Super Gem&apos;s"  [ImageContent=rbxassetid://108708296046837 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://74110488072850 ; ZIndex=1]
+      ImageButton "Code&apos;s"  [ImageContent=rbxassetid://108468478600761 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://128616077930951 ; ZIndex=1]
+      ImageButton "Pet&apos;s"  [ImageContent=rbxassetid://111647672177103 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://110028519824090 ; ZIndex=1]
+      ImageButton "Setting&apos;s"  [ImageContent=rbxassetid://89960202252554 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "Update Log"  [ImageContent=rbxassetid://80211059329972 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+      ImageButton "What&apos;s Added"  [ImageContent=rbxassetid://140023089743613 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+      ImageLabel "Frame4"  [ImageContent=rbxassetid://85710516229772 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+      ImageLabel "Frame3"  [ImageContent=rbxassetid://88163224055084 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+      ImageLabel "Frame2"  [ImageContent=rbxassetid://76886101386757 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+      ImageLabel "Frame1"  [ImageContent=rbxassetid://123725587383568 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+      ImageLabel "Frame5"  [ImageContent=rbxassetid://133725841617476 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+    Frame "MegaPack"  [BackgroundTransparency=0.99000001 ; Visible=true ; ZIndex=1]
+    LocalScript "PreloadButtonAssets"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageLabel "Frame1"  [ImageContent=rbxassetid://123725587383568 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageLabel "Frame2"  [ImageContent=rbxassetid://76886101386757 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://134746970554349 ; ZIndex=1]
+          UIGradient "UIGradient"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Trade"  [ImageContent=rbxassetid://86221260122283 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://94575482748360 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Back"  [ImageContent=rbxassetid://80495145019472 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://81274757853826 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Gem&apos;s"  [ImageContent=rbxassetid://129479735876075 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://111618439943749 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+          UIGradient "UIGradient"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Robux"  [ImageContent=rbxassetid://75730579249181 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Update Log"  [ImageContent=rbxassetid://80211059329972 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://101093482235249 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Money"  [ImageContent=rbxassetid://101558165672828 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://110028519824090 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Setting&apos;s"  [ImageContent=rbxassetid://89960202252554 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        Decal "Decal"  [TextureContent=rbxassetid://123615211721249 ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Inventory"  [ImageContent=rbxassetid://119963621120331 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://85924614506626 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Delete"  [ImageContent=rbxassetid://104731637166575 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://123615211721249 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Bag Pack"  [ImageContent=rbxassetid://130843686712036 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://94575482748360 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Back"  [ImageContent=rbxassetid://80495145019472 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://98051473530755 ; ZIndex=1]
+          UIGradient "UIGradient"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Luck"  [ImageContent=rbxassetid://134443950151679 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://133449971610824 ; ZIndex=1]
+          UIGradient "UIGradient"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "WheelSpin"  [ImageContent=rbxassetid://108607068483395 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://134734003678221 ; ZIndex=1]
+          UIGradient "UIGradient"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Robux"  [ImageContent=rbxassetid://131198923284739 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageLabel "Frame3"  [ImageContent=rbxassetid://88163224055084 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://73663005164552 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Rebirth"  [ImageContent=rbxassetid://115325120904186 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://119884033550057 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Pet&apos;s"  [ImageContent=rbxassetid://110467625627559 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        Decal "Decal"  [TextureContent=rbxassetid://92628551554815 ; ZIndex=1]
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "Gem&apos;s"  [ImageContent=rbxassetid://78249669263695 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+        LocalScript "ButtonIconScript"
+        UIShadow "UIShadow"  [ZIndex=-1]
+      ImageButton "What&apos;s Added"  [ImageContent=rbxassetid://140023089743613 ; ImageRectOffset=0,0 ; ImageRectSize=0,0 ; SliceScale=1 ; BackgroundTransparency=1 ; Visible=true ; ZIndex=1]
+    Frame "ShowCase"  [BackgroundTransparency=0.349999994 ; ZIndex=1]
+  ScreenGui "Free_UI_Pack"
+Folder "UngroupStarterGUI"

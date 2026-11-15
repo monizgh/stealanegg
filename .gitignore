@@ -1,0 +1,10 @@
+# Roblox Studio runtime files
+*.lock
+StealAnEgg.rbxlx.bak
+
+# Third-party Luau CLI binaries (download separately)
+tools/luau/
+
+# Local design references and generated preview sheets
+reference/
+ui-pack-preview/
